@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FadeXaltair
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning web devlopment + solidity
-- 💞️ I’m looking to collaborate on with people have same intersts 
+- 💞️ I’m looking to collaborate on with people have same interests 
 - 📫 How to reach me...that's an important question....haha just kidding ..you can tweet me at HiteshRana0508.
 
 <!---
